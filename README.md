@@ -1,6 +1,5 @@
 <h1 align="center">Welcome</h1>
 <h3 align="center">My Name is Deontae Smith</h3>
-<h3 align="center">Computer Science Major at Howard University.</h3>
 
 <br>
 
